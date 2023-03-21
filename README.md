@@ -10,7 +10,7 @@
   - Установите нагрузку «Разработка классических приложений .NET»
 - Скачайте репозиторий из GitHub:
     ```
-    git clone https://github.com/Microsoft/calculator.git
+    git clone https://github.com/Klimpit/Calculator.git
     ```
 
 - Откройте [src\Calculator.sln](/src/Calculator.sln) в Visual Studio чтобы запустить приложение Calculator
